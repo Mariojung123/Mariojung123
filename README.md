@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Mario%20Jung%20👋)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=605FF7&random=false&width=435&lines=MarioJung%EC%9D%98+%EB%A0%88%ED%8F%AC%EC%A7%80%ED%86%A0%EB%A6%AC%EC%97%90+%EC%98%A4%EC%8B%A0+%EA%B2%83%EC%9D%84+%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4!!)](https://git.io/typing-svg)
 
-2023.03 ~         | KGU Computer Engineering
-2023.03 ~         | Club - K.knock 14th
-2023.06 ~ 2023.09 | OUTTA Data Bootcamp
-2023.11 ~         | KGU 2024 SW Bootcamp
-2024.03 ~ 2024.12 | K.knock 15th Web Dev Mentor
-2024.05 ~         | Certification - SQLD
+2023.03 ~        | KGU Computer Engineering   
+2023.03 ~        | Club - K.knock 14th   
+2023.06 ~ 2023.09  | OUTTA Data Bootcamp   
+2023.11 ~        | KGU 2024 SW Bootcamp   
+2024.03 ~ 2024.12  | K.knock 15th Web Dev Mentor   
+2024.05 ~        | Certification - SQLD
 
 <!--
 **Mariojung123/Mariojung123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
