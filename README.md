@@ -8,7 +8,7 @@
 2024.03 ~ 2024.12  | K.knock 15th Web Dev Mentor   
 2024.05 ~        | Certification - SQLD   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariojung123&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariojung123&show_icons=true&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=idim0626)](https://solved.ac/idim0626/)
 <!--
 **Mariojung123/Mariojung123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
