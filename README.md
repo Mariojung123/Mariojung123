@@ -3,8 +3,8 @@
 
 2023.03 ~        | KGU Computer Engineering   
 2023.03 ~        | Club - K.knock 14th   
-2023.06 ~ 2023.09  | OUTTA Data Bootcamp   
-2023.11 ~        | KGU 2024 SW Bootcamp   
+2023.06 ~ 2023.09 | OUTTA Data Bootcamp   
+2023.11 ~        | KGU 2024 SW Bootcamp   
 2024.03 ~ 2024.12  | K.knock 15th Web Dev Mentor   
 2024.05 ~        | Certification - SQLD
 
