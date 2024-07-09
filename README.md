@@ -6,8 +6,9 @@
 2023.06 ~ 2023.09 | OUTTA Data Bootcamp   
 2023.11 ~        | KGU 2024 SW Bootcamp   
 2024.03 ~ 2024.12  | K.knock 15th Web Dev Mentor   
-2024.05 ~        | Certification - SQLD
+2024.05 ~        | Certification - SQLD   
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=idim0626)](https://solved.ac/idim0626/)
 <!--
 **Mariojung123/Mariojung123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 hello
